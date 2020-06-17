@@ -1,7 +1,7 @@
 document.write('<meta charset = "UTF-8">\
     <link rel="stylesheet" type="text/css" href="../css/forside.css">\
     <div class="navbar">\
-    <div><a href="../html/forside.html">Forside</a></div>\
+    <div><a href="../html/index.html">Forside</a></div>\
     <div><a href="../html/booking.html">Om klinikken</a></div>\
     <div><a href="../html/medarbjeder.html">Lidt om mig</a></div>\
         <div class="dropdown">\
@@ -11,8 +11,9 @@ document.write('<meta charset = "UTF-8">\
     <div class="dropdown-content">\
       <a href="#">Akupunktur</a>\
       <a href="#">Øreakupunktur</a>\
-      <a href="#">Fodspa</a>\
       <a href="#">Myorefleksterapi</a>\
+      <a href="#">Healing"</a>\
+      <a href="#">Fodspa</a>\
     </div>\
   </div>\
     <div><a href="../html/priser.html">Priser</a></div>\
